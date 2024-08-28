@@ -8,11 +8,11 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
 ## Current SLT
 
-- **Nantan**: Prodigal
+- **Nantan**: Happy Gilmore
 
   - The Q of the Carpex region. He’s the cheerleader. Lays down the 43 feet for the region and exemplifies the Carpex culture.
 
-- **1st F Qs**: Happy Gilmore, Slugger
+- **1st F Qs**: Slugger
 
   - Any questions about starting a workout or doing something new in Fitness? These are your guys!
 
@@ -28,7 +28,7 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
   - These are the men to help you promote your next great plan.
 
-- **Region Ambassador**: Ma Bell
+- **Region Ambassador**: Shut-In
 
   - This role ensures we maintain intentional connections with the greater Carpex region.
 
