@@ -39,4 +39,4 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
 - **Weasel Shaker**: Kwik Stop
 
-  - The man which “shakes the weasels” and makes sure they are all doing what they are supposed to do. The HIM in the role keeps his ear to the ground and his finger in the pulse of the Pax with rhe Nantan.
+  - The man which “shakes the weasels” and makes sure they are all doing what they are supposed to do. The HIM in this role keeps his ear to the ground and his finger on the pulse of the Pax with the Nantan.
