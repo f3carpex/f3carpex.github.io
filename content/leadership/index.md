@@ -35,3 +35,8 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 - **FNG Q**: Tea Party
 
   - This role works with the SLT and Site Qs to make Carpex an even better place for friendly new guys (FNGs) to accelerate. He also follows up with FNGs to make sure they're getting plugged into the region across the 3Fs.
+ 
+
+- **Weasel Shaker**: Kwik Stop
+
+  - The man which “shakes the weasels” and makes sure they are all doing what they are supposed to do. The HIM in the role keeps his ear to the ground and his finger in the pulse of the Pax with rhe Nantan.
