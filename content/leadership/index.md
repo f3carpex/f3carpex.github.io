@@ -12,15 +12,15 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
   - The Q of the Carpex region. He’s the cheerleader. Lays down the 43 feet for the region and exemplifies the Carpex culture.
 
-- **1st F Qs**: Slugger
+- **1st F Qs**: Build-A-Bear, Slugger
 
   - Any questions about starting a workout or doing something new in Fitness? These are your guys!
 
-- **2nd F Qs**: Press On, Riptide, Skipper
+- **2nd F Qs**: Skipper
 
   - These guys execute our large fellowship events a few times a year. Lots of effort, little praise. If you have an ideas about fellowship, reach out to them if you need help.
 
-- **3rd F Qs**: Coco Crisp, Schroeder
+- **3rd F Qs**: Hi-Liter, Saban
 
   - Lead a team of men planning and assisting guys to get Faith-based activities going like Bible studies, book studies, or service projects. Any questions in this area, get at them!
 
