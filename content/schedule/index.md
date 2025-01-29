@@ -71,7 +71,8 @@ _\*Launch time may vary depending on pace. Intention is to be back at the Flag i
     frameborder="0"
     scrolling="no"></iframe>
 
-### <a name="3rdf"></a>3rd F – Small Groups and Community Service
+### <a name="3rdf"></a>3rd F - Faith
+In F3, we define faith as simply a belief in something bigger than yourself.
 
 | DAY             | LOCATION                                                              | TIME        | WHAT         | DESCRIPTION                                                                              |
 | --------------- | --------------------------------------------------------------------- | ----------- | ------------ | ---------------------------------------------------------------------------------------- |

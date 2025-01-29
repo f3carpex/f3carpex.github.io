@@ -25,7 +25,7 @@ unsafe = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Fitness Fellowship Faith"
+  subtitle = "Leave no man behind, but leave no man where you find him."
   mainSections = ["post","posts"]
   logo = "img/brand/f3-black-on-white-500x500.png" # Expecting square dimensions
   darkLogo = "img/brand/f3-white-on-black-500x500.png"
@@ -108,19 +108,19 @@ unsafe = true
 
 [[menu.main]]
     parent = "schedule"
-    name = "1st F (Fitness)"
+    name = "1st F"
     url = "schedule/"
     weight = 3
 
 [[menu.main]]
     parent = "schedule"
-    name = "2nd F (Fellowship)"
+    name = "2nd F"
     url = "schedule/#2ndf"
     weight = 4
 
 [[menu.main]]
     parent = "schedule"
-    name = "3rd F (Faith)"
+    name = "3rd F"
     url = "schedule/#3rdf"
     weight = 5
 
@@ -146,6 +146,12 @@ unsafe = true
     name = "Carpex Dashboard"
     url = "https://lookerstudio.google.com/embed/reporting/55e8d4db-8fc5-475d-bd65-4607782ee7e8/page/Cb2pD"
     weight = 43
+
+[[menu.main]]
+    parent = "pax"
+    name = "Exicon"
+    url = "exicon/"
+    weight = 45
 
 [[menu.main]]
     identifier = "contact"
