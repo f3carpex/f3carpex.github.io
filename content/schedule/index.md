@@ -42,7 +42,6 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 | Wednesday | [Fred G. Bond Park](https://goo.gl/9wDi3W)                         | 0500 - 0540     | 005                 | Boot Camp                                                                                                                        |
 | Wednesday | [Fred G. Bond Park](https://goo.gl/9wDi3W)                                | 0545 - 0630     | Shaken Not Stirred         | Boot Camp                                                                                                   |
 | Wednesday | [Fred G. Bond Park](https://goo.gl/9wDi3W)                                | 0545 - 0630     | Vesper         | Running (~4-5 miles)                                                                                                   |
-| Wednesday | [Fred G. Bond Park](https://goo.gl/9wDi3W)                                | 0545 - 0630     | Die Another Day         | Rucking/Coupon/Sandbags                                                                                                   |
 | Wednesday | [Preston Village](https://goo.gl/maps/nbBeM65Lqq7CEBbS6)                                | 0600 - 0645     | Full Throttle         | Boot Camp                                                                                                   |
 | **DAY**       | **LOCATION**                                                                              | **TIME**            | **WORKOUT**                    | **STYLE**                                                                                                                            |
 | Thursday  | [Downtown Cary](https://goo.gl/maps/QNtN7acPkL92)                           | 0545 - 0630     | Bradford's Ordinary             | Boot Camp                                                                         
@@ -71,6 +70,7 @@ In F3, we define faith as simply a belief in something bigger than yourself.
 
 | DAY             | LOCATION                                                              | TIME        | WHAT         | DESCRIPTION                                                                              |
 | --------------- | --------------------------------------------------------------------- | ----------- | ------------ | ---------------------------------------------------------------------------------------- |
+ Monday        | [Apex Community Park](https://goo.gl/maps/4FCYB4KcHPjdRfoZ9)        | 0545 – 0630 | q-Source Ruck     | Work through the q-source manual, an F3 leadership guide, as well as other leadership related discussions                                              |
 | Wednesday          | [Panera – Park West Village](https://maps.app.goo.gl/665U2tfPr7hmPPCa8) | 0645 – 0715 | The Refinery | Read through books of the Bible and discuss |
-| Thursday        | [Downtown Cary](https://goo.gl/maps/QNtN7acPkL92)        | 0500 – 0545 | q-Source Ruck     | Work through the q-source manual, an F3 leadership guide, as well as other leadership related discussions                                              |
+|
 | Varies (check Slack for details) | Downtown Cary                                                         | Varies        | TCP Sawgrass | Landscape multiple homes in support of The Carying Place.                                |
