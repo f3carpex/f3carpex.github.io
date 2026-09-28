@@ -28,11 +28,11 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
   - These are the men to help you promote your next great plan.
 
-- **Region Ambassador**: Shut-In
+- **Region Ambassador**: Hello Kitty
 
   - This role ensures we maintain intentional connections with the greater Carpex region.
 
-- **FNG Q**: 
+- **FNG Q**: Coco Crisp
 
   - This role works with the SLT and Site Qs to make Carpex an even better place for friendly new guys (FNGs) to accelerate. He also follows up with FNGs to make sure they're getting plugged into the region across the 3Fs.
  
